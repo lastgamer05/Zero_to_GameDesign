@@ -85,6 +85,14 @@
 
  ![image](https://github.com/lastgamer05/Zero_to_GameDesign/assets/105638752/7fe18524-9728-482f-adde-332a6a9a25ad)
 
+ ![image](https://github.com/lastgamer05/Zero_to_GameDesign/assets/105638752/2a21185e-593b-4938-8dea-2d1a6b3ffe59)
+
+ ![image](https://github.com/lastgamer05/Zero_to_GameDesign/assets/105638752/7932f252-cee6-4334-820e-982b0564fdf1)
+
+  - 이런식으로 번호를 매겨 표를 제작하는 것이 좋음
+
+
+
 
 
 
